@@ -1,0 +1,46 @@
+<html>
+<body>
+<table border="3" cellpadding="10" cellspacing="10">
+<tr>
+<th> </th>
+<th valign="top"><i>Karnataka</i> </th>
+<th> <i>Tamilnadu</i></th>
+<th> <i>Andrapradesh</i></th>
+<th> <i>Mumbai</i></th>
+<th> <i>Goa</i></th>
+</tr>
+<tr>
+<th align="right"> state </th>
+<td> 1</td>
+<td> 2</td>
+<td>3 </td>
+<td> 4</td>
+<td>5 </td>
+</tr>
+<tr>
+<th>state bird </th>
+<td> 6</td>
+<td> 7</td>
+<td>8</td>
+<td>9 </td>
+<td>10 </td>
+</tr>
+<tr>
+<th> state flower </th>
+<td> 11</td>
+<td> 12</td>
+<td>13 </td>
+<td> 14</td>
+<td> 15</td>
+</tr>
+<tr>
+<th> state tree </th>
+<td> 16</td>
+<td><img src="abc.jpg" alt="Photo" /></td>
+<td> 18</td>
+<td> 19</td>
+<td>20 </td>
+</tr>
+</table>
+</body>
+</html>
